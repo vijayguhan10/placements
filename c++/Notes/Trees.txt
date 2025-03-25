@@ -1,0 +1,50 @@
+### Tree Data Structure Cheat Sheet 🚀
+
+#### 1️⃣ Basics
+- **Node**: Fundamental unit of a tree
+- **Root**: Topmost node
+- **Parent & Child**: Relationship between nodes
+- **Leaf**: Node with no children
+- **Height**: Longest path from node to leaf
+- **Depth**: Distance from root
+- **Subtree**: Any node with its descendants
+
+#### 2️⃣ Types of Trees
+- **Binary Tree**: Each node has ≤ 2 children
+- **Binary Search Tree (BST)**: Left < Root < Right
+- **Balanced Trees**: AVL, Red-Black Tree
+- **Heap**: Min Heap, Max Heap
+- **Trie (Prefix Tree)**: Efficient for string operations
+- **Segment Tree / Fenwick Tree (BIT)**: Used for range queries
+
+#### 3️⃣ Tree Traversals
+- **DFS (Depth-First Search)**:
+  - **Inorder (L → Root → R)**
+  - **Preorder (Root → L → R)**
+  - **Postorder (L → R → Root)**
+- **BFS (Breadth-First Search)**:
+  - **Level Order Traversal**
+
+#### 4️⃣ Important Problems
+- Find **Height & Depth** of a tree
+- Compute **Lowest Common Ancestor (LCA)**
+- Find **Diameter of the tree**
+- **Check if a tree is balanced**
+- **Serialize & Deserialize a tree**
+- Find **K-th Smallest Element in BST**
+- **Zigzag Traversal** of a tree
+- **Construct a Tree** from given traversals
+
+#### 5️⃣ Advanced Topics
+- **Morris Traversal** (Tree traversal without recursion/stack)
+- **Segment Tree & Fenwick Tree (BIT)** for efficient range queries
+- **Graph Relationship**: A tree is a special type of graph
+
+#### 6️⃣ Problem-Solving Approach
+✅ Understand the problem statement
+✅ Identify the type of tree
+✅ Choose the correct traversal technique
+✅ Use recursion or an iterative approach
+✅ Optimize using tree properties
+
+🔥 Master these concepts to crack tree-based problems efficiently! 🚀
